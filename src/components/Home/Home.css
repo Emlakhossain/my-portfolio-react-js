@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(205, 208, 208);
+    margin-top: 50px;
+
+}
+
+
+.img-container {
+    width: 60%;
+}
+
+.img-container img {
+    width: 100%;
+}
+
+.text {
+    text-align: center;
+    color: rgb(147, 142, 142);
+    width: 40%;
+    font-size: 30px;
+}
+
+.btn {
+    padding: 12px;
+    border: 0;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 5px;
+    width: 50%;
+    background-color: rgb(235, 221, 204);
+}
+
+.btn:hover {
+    background-color: orange;
+    cursor: pointer;
+}
