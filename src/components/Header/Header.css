@@ -1,0 +1,17 @@
+.nav-bar a {
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.nav-bar {
+    text-align: end;
+    margin-right: 10px;
+    margin-top: 50px;
+}
+
+.nav-bar a:hover {
+    color: orange;
+    cursor: pointer;
+}

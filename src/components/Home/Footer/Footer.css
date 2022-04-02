@@ -1,0 +1,30 @@
+.footer-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: auto;
+    background-color: black;
+    height: 260px;
+}
+
+.footer-item {
+    color: whitesmoke;
+}
+
+.footer-item h4 {
+    margin: 2px;
+}
+
+.footer-item p {
+    color: orange;
+    margin-right: 10px;
+}
+
+.icon p {
+    color: orange;
+}
+
+.icon:hover {
+    display: flex;
+    cursor: pointer;
+}
