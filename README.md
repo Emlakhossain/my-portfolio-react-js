@@ -1,3 +1,8 @@
+* portfolio project
+* personal website make by react js
+* use React router and dynamic link
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
